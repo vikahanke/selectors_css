@@ -1,0 +1,43 @@
+body {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  background: #e6e6e6;
+}
+
+#country {
+  color: blueviolet;
+}
+
+.capital {
+  border: 5px solid #FFFF00;
+  text-align: center;
+}
+
+.content {
+  color: blue;
+  text-align: center;
+}
+
+[name=ukr] {
+  color: red;
+  width: 100px;
+  height: 100px;
+}
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
